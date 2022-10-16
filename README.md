@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-partike&show_icons=true&locale=en" alt="jay-partike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-partike&" alt="jay-partike" /></p>
+<img src="https://bkit.co/w_634c478c7806e.gif" />
